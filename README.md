@@ -1,2 +1,2 @@
 # NATO-Alphabet-Project
-NATO Alphabet Project 🐼 Pandas module in 🐍 Python.
+NATO Alphabet Project Using 🐼 Pandas module in 🐍 Python.
